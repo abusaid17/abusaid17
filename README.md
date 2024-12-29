@@ -1,7 +1,7 @@
 
 ![Web Developer](https://i.ibb.co.com/h2ZYkGP/Navy-Blue-Geometric-Technology-Linked-In-Banner.png)
-# 👋  Hi... Welcome to my GitHub Profile.
-## <div align="center">I'm Abu Said, Front-End Web Developer. <br> Curreently I Live In Dhaka, Bangladesh</div>
+# 👋  Hi... Welcome to my GitHub Profile,
+## <div align="center"> I'm Abu Said, Front-End Web Developer. <br> Curreently I Live In Dhaka, Bangladesh</div>
 <hr>
 <br>
 
