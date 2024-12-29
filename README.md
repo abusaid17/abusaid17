@@ -32,6 +32,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=abusaid17&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abusaid17&theme=radical&hide_border=false)<br/>
 
+<hr>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abusaid17&theme=radical&no-frame=false&no-bg=false&margin-w=4)
