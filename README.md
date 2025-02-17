@@ -1,6 +1,4 @@
-![alt text](https://i.ibb.co.com/h2ZYkGP/Navy-Blue-Geometric-Technology-Linked-In-Banner.png) 
-
- <img src="https://github.com/favicon.ico" width="48">
+ <img src="https://i.ibb.co.com/h2ZYkGP/Navy-Blue-Geometric-Technology-Linked-In-Banner.png" width="48">
 
 # 👋  Hi... Welcome to my GitHub Profile,
 ## <div align="center"> I'm Abu Said, Front-End Web Developer. <br> Curreently I Live In Dhaka, Bangladesh</div>
