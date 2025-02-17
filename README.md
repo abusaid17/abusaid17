@@ -1,4 +1,4 @@
-![alt text](https://i.ibb.co.com/h2ZYkGP/Navy-Blue-Geometric-Technology-Linked-In-Banner.png)
+![alt text {width=40px height=400px}](https://i.ibb.co.com/h2ZYkGP/Navy-Blue-Geometric-Technology-Linked-In-Banner.png) 
 
  
 # 👋  Hi... Welcome to my GitHub Profile,
