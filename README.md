@@ -20,7 +20,7 @@
 - 🔭 I’m Studying at NITER(Dhaka University Teachnology Unit) BSC in CSE. 
 - 🌱 I’m currently learning MERN Stack Web Development 
 - 💬 Ask me about Front-End Web Development 
-- 🌱 I want to be a Software Engineer.
+
 
 
 ## How to reach me :
