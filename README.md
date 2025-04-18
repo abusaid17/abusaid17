@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://ibb.co.com/wrrXhR2V">
-    <img src="https://i.ibb.co.com/5xxyh6Jm/programming.jpg" alt="programming" style="width:100%; height:300px; object-fit:cover;" />
+    <img src="https://i.ibb.co.com/5xxyh6Jm/programming.jpg" alt="programming" style="width:100%; height:400px; object-fit:cover;" />
   </a>
 </p>
 
