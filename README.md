@@ -1,14 +1,13 @@
+# 👋  Hi... Welcome to my GitHub Profile,
+## <div align="center"> I'm Abu Said, Front-End Web Developer. <br> Curreently I Live In Dhaka, Bangladesh</div>
+<hr>
+<br>
+
 <p align="center">
   <a href="https://ibb.co.com/wrrXhR2V">
     <img src="https://i.ibb.co.com/5xxyh6Jm/programming.jpg" alt="programming" style="width:100%; height:425px; object-fit:cover;" />
   </a>
 </p>
-
-
-# 👋  Hi... Welcome to my GitHub Profile,
-## <div align="center"> I'm Abu Said, Front-End Web Developer. <br> Curreently I Live In Dhaka, Bangladesh</div>
-<hr>
-<br>
 
 
 ## 💻 I know about this for codding : 
