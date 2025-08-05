@@ -7,6 +7,10 @@
 # 👋  Hi... Welcome to my GitHub Profile,
 ## <div align="center"> I'm Abu Said, Front-End Web Developer. <br> Currently I Live In Dhaka, Bangladesh</div>
 <hr>
+
+## How to reach me :
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abusaid17/) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdabusaid7068@gmail.com) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/abusaid1756) [![Portfolio Badge](https://img.shields.io/badge/Portfolio-e535ab?style=for-the-badge&logo=About.me&logoColor=white)](https://abusaid-portfolio.vercel.app/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+8801404667068)
+
 <br>
 
 ## 💻 I know about this for coding : 
@@ -18,13 +22,6 @@
 - 🔭 I’m Studying at NITER(Dhaka University Teachnology Unit) BSC in CSE. 
 - 🌱 I’m currently learning MERN Stack Web Development 
 - 💬 Ask me about Front-End Web Development 
-
-
-
-## How to reach me :
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abusaid17/) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdabusaid7068@gmail.com) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/abusaid1756) [![Portfolio Badge](https://img.shields.io/badge/Portfolio-e535ab?style=for-the-badge&logo=About.me&logoColor=white)](https://abusaid-portfolio.vercel.app/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+8801404667068)
-## Email: mdabusaid7068@gmail.com
-### 💻 WhatsApp : +8801404667068
 
 <hr>
 
