@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# 👋  Hi... Welcome to my GitHub Profile,
+# 👋  Hi... Welcome to my GitHub Profile
 ## <div align="center"> I'm Abu Said, Front-End Web Developer. <br> Currently I Live In Dhaka, Bangladesh</div>
 <hr>
 
